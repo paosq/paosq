@@ -10,4 +10,4 @@ def rectangle_area(a, b):
     if a>0 and b>0:
       return a*b
     else: return "bład"
-print(rectangle_area(-1,2))
+print(rectangle_area(1,2))
